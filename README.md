@@ -1,7 +1,8 @@
 # Finance Dashboard UI
 
 A simple and interactive finance dashboard built using React. This project demonstrates how to design a clean user interface, structure components, and manage data on the frontend.
-das
+
+
 ---
 
 ## 🚀 Features
